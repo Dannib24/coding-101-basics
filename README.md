@@ -1,5 +1,4 @@
 # coding-101-basics
-# coding-101-basics
 
 ## Why I’m doing this
 I’m building a strong foundation in coding from basics to advanced, with consistent weekly practice and real mini-projects.
